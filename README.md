@@ -31,12 +31,6 @@
 
 After you've cloned the repository, follow these steps to set up the application:
 
-### Setup
-
-- Visit the MongoDB website to create a database and a collection named 'Items'. Insert the data in the `server/ItemsCollection.js` file as a document.
-- Create a `.env` file in the server folder and populate it with the following:
-
-
 
 ### Running
 
