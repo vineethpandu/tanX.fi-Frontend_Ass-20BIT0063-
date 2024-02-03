@@ -4,7 +4,7 @@
 
 <code>Currently under construction for additional features</code>
 <img width="870" alt="image" src="https://github.com/vineethpandu/tanX.fi-Frontend_Ass-20BIT0063-/assets/80325182/38ecc81c-0197-4432-a0a9-67435fd5416e">
-<img width="904" alt="image" src="https://github.com/vineethpandu/tanX.fi-Frontend_Ass-20BIT0063-/assets/80325182/f98a60dd-243c-4193-9b39-281cbaf8477a">
+<img width="970" alt="image" src="https://github.com/vineethpandu/tanX.fi-Frontend_Ass-20BIT0063-/assets/80325182/f98a60dd-243c-4193-9b39-281cbaf8477a"> </br>
 After Validation 
 
 
