@@ -3,16 +3,16 @@
 # React/Redux Ecommerce Application
 
 <code>Currently under construction for additional features</code>
-<img width="870" alt="image" src="https://github.com/vineethpandu/tanX.fi-Frontend_Ass-20BIT0063-/assets/80325182/38ecc81c-0197-4432-a0a9-67435fd5416e">
+<img width="870" alt="image" src="https://github.com/vineethpandu/tanX.fi-Frontend_Ass-20BIT0063-/assets/80325182/38ecc81c-0197-4432-a0a9-67435fd5416e"></br>
 <img width="870" alt="image" src="https://github.com/vineethpandu/tanX.fi-Frontend_Ass-20BIT0063-/assets/80325182/f98a60dd-243c-4193-9b39-281cbaf8477a"> </br>
 After Validation</br>
-<img width="870" alt="image" src="https://github.com/vineethpandu/tanX.fi-Frontend_Ass-20BIT0063-/assets/80325182/95805cdd-41d7-4b86-abd8-d2754d8f65ea">
+<img width="870" alt="image" src="https://github.com/vineethpandu/tanX.fi-Frontend_Ass-20BIT0063-/assets/80325182/95805cdd-41d7-4b86-abd8-d2754d8f65ea"></br>
 
-<img width="870" alt="image" src="https://github.com/vineethpandu/tanX.fi-Frontend_Ass-20BIT0063-/assets/80325182/c98f80c3-0b90-408a-a785-b87be81b3ecf">
+<img width="870" alt="image" src="https://github.com/vineethpandu/tanX.fi-Frontend_Ass-20BIT0063-/assets/80325182/c98f80c3-0b90-408a-a785-b87be81b3ecf"></br>
 After WishList</br>
-<img width="870" alt="image" src="https://github.com/vineethpandu/tanX.fi-Frontend_Ass-20BIT0063-/assets/80325182/a72a46da-9f43-4163-b76b-0afa6f8dff0d">
+<img width="870" alt="image" src="https://github.com/vineethpandu/tanX.fi-Frontend_Ass-20BIT0063-/assets/80325182/a72a46da-9f43-4163-b76b-0afa6f8dff0d"></br>
 After adding adding to the cart</br>
-<img width="870" alt="image" src="https://github.com/vineethpandu/tanX.fi-Frontend_Ass-20BIT0063-/assets/80325182/6f278934-1637-4132-88ad-49f36d35e32b">
+<img width="870" alt="image" src="https://github.com/vineethpandu/tanX.fi-Frontend_Ass-20BIT0063-/assets/80325182/6f278934-1637-4132-88ad-49f36d35e32b"></br>
 
 
 
