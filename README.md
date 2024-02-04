@@ -39,8 +39,6 @@
 # Getting Started
 
 ## Dependencies
-
-- Node.js - The runtime environment of the application.
 - React.js - Component-based UI library.
 - Redux -managing and updating application state
 
